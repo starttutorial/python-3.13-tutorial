@@ -8,3 +8,4 @@
 - [Functions](./chapter_6.md)
 - [Object-Oriented Programming](./chapter_7.md)
 - [Error Handling](./chapter_8.md)
+- [Working with Python Modules and Packages](./chapter_9.md)

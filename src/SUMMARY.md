@@ -5,3 +5,4 @@
 - [Basics of Python Syntax](./chapter_3.md)
 - [Control Flow Statements](./chapter_4.md)
 - [Data Structures](./chapter_5.md)
+- [Functions](./chapter_6.md)

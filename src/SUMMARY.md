@@ -1,3 +1,3 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Introduction to Python 3.13](./chapter_1.md)
